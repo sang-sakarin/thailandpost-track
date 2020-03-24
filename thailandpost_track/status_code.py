@@ -1,3 +1,8 @@
+"""
+A libraly that provides a python interface to Thailand Post API
+"""
+
+
 class StatusCode:
     ALL = 'all'
     PRELOAD = '101'

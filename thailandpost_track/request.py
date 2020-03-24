@@ -1,3 +1,6 @@
+"""
+A libraly that provides a python interface to Thailand Post API
+"""
 import requests
 import warnings
 
