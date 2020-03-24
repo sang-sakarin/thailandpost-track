@@ -150,7 +150,7 @@ Language of response.
 | Variables         | Description            |
 | ----------------- |------------------------|
 | TH                | Thai Language          |
-| EN                | Englisg Language       |
+| EN                | English Language       |
 | CN                | Chinese Language       |
 
 #### How to use:
